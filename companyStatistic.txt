@@ -1,0 +1,7 @@
+Srednia wypłata :5300.0
+Najmniejsza wypłata :4800.0
+Największa wypłata :6000.0
+Łączna liczba pracowników :4.0
+Liczba pracowników w dziale IT :2
+Liczba pracowników w dziale Managment :1
+Liczba pracowników w dziale IT :1
